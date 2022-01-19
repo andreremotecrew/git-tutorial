@@ -1,1 +1,2 @@
-Este é um documento de texto
+Este é um documento de texto. 
+Escrito por André Silva
